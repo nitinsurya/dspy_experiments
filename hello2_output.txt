@@ -1,0 +1,866 @@
+2025-05-03 10:40:17,565 - INFO - Defined 7 training examples.
+2025-05-03 10:40:17,566 - INFO - DSPy configured with Ollama model 'mistral-small3.1' at http://localhost:11434.
+2025-05-03 10:40:17,566 - INFO - Configured BootstrapFewShot optimizer.
+2025-05-03 10:40:17,566 - INFO - Starting DSPy module compilation...
+  0%|                                                                                                                                                          | 0/7 [00:00<?, ?it/s]10:40:17 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:17,581 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:34,620 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:40:34 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:40:34,625 - INFO - Wrapper: Completed Call, calling success_handler
+10:40:34 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:34,626 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:40:34 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:34,627 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:34,672 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:34,672 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:34,762 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:40:34 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:34,765 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:34,803 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:34,865 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+ 14%|████████████████████▊                                                                                                                             | 1/7 [00:17<01:46, 17.72s/it]10:40:35 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:35,301 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:40,774 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:40:40 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:40:40,775 - INFO - Wrapper: Completed Call, calling success_handler
+10:40:40 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:40,775 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:40:40 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:40,776 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:40,809 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:40,809 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+ 29%|█████████████████████████████████████████▋                                                                                                        | 2/7 [00:23<00:52, 10.54s/it]10:40:40 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:40,814 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:40,840 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:40:40 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:40,841 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:40,872 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:40,902 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:46,804 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:40:46 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:40:46,808 - INFO - Wrapper: Completed Call, calling success_handler
+10:40:46 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:46,809 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:40:46 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:46,809 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:46,842 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:46,843 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+ 43%|██████████████████████████████████████████████████████████████▌                                                                                   | 3/7 [00:29<00:39,  9.76s/it]
+Bootstrapped 3 full traces after 3 examples for up to 3 rounds, amounting to 3 attempts.
+2025-05-03 10:40:46,848 - INFO - DSPy module compilation finished.
+2025-05-03 10:40:46,848 - INFO - 
+--- Inspecting LLM History from Compilation ---
+Number of LLM calls during compilation: 3
+Showing details for the last 5 calls:
+
+--- Call -1 ---
+Messages Sent:
+  Role: system, Content: Your input fields are:
+1. `movie_review` (str): The text of the movie review.
+Your output fields are:
+1. `sentiment` (str): The overall sentiment (must be one of 'positive', 'negative', or 'neutral')....
+  Role: user, Content: This is an example of the task, though some input or output fields are not supplied.
+
+[[ ## movie_review ## ]]
+The cinematography was decent and the soundtrack was nice, but otherwise unremarkable....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+neutral
+
+[[ ## explanation ## ]]
+None
+
+[[ ## keywords ## ]]
+[1] «decent cinematography»
+[2] «nice soundtrack»
+[3] «unremarkable»...
+  Role: user, Content: This is an example of the task, though some input or output fields are not supplied.
+
+[[ ## movie_review ## ]]
+It was okay. Some good visuals, but the pacing felt off and it didn't leave much impact....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+neutral
+
+[[ ## explanation ## ]]
+None
+
+[[ ## keywords ## ]]
+[1] «okay»
+[2] «good visuals»
+[3] «pacing off»
+[4] «no impact»...
+  Role: user, Content: [[ ## movie_review ## ]]
+Visually stunning, a technical marvel! But the script was weak and confusing....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+Despite praising visuals, the reviewer criticizes the weak and confusing script.
+
+[[ ## keywords ## ]]
+[1] «visually stunning»
+[2] «technical ma...
+  Role: user, Content: [[ ## movie_review ## ]]
+I fell asleep halfway through. Incredibly boring....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+The reviewer found the movie extremely boring, indicating strong negative sentiment.
+
+[[ ## keywords ## ]]
+[1] «fell asleep»
+[2] «boring»...
+  Role: user, Content: [[ ## movie_review ## ]]
+A complete waste of time. The plot was nonsensical and the characters were wooden....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+The reviewer expresses strong negative sentiment, criticizing the plot and characters.
+
+[[ ## keywords ## ]]
+[1] «waste of time»
+[2] «nonsensica...
+  Role: user, Content: [[ ## movie_review ## ]]
+A heartwarming story with brilliant performances. A must-see!...
+  Role: assistant, Content: [[ ## sentiment ## ]]
+positive
+
+[[ ## explanation ## ]]
+The review highlights the heartwarming story and brilliant performances, recommending the movie.
+
+[[ ## keywords ## ]]
+[1] «heartwarming story»
+...
+  Role: user, Content: [[ ## movie_review ## ]]
+Absolutely loved it! The acting was incredible and the story kept me hooked.
+
+Respond with the corresponding output fields, starting with the field `[[ ## sentiment ## ]]`, th...
+
+Response:
+ModelResponse(id='chatcmpl-2e2eb80c-b34f-4226-b360-01bb787b2f09', created=1746249034, model='ollama_chat/mistral-small3.1', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='[[ ## sentiment ## ]]\npositive\n\n[[ ## explanation ## ]]\nThe reviewer expresses strong positive sentiment, praising the acting and engaging story.\n\n[[ ## keywords ## ]]\n[1] «loved it»\n[2] «incredible acting»\n[3] «engaging story»\n\n[[ ## completed ## ]]', role='assistant', tool_calls=None, function_call=None, provider_specific_fields=None))], usage=Usage(completion_tokens=66, prompt_tokens=858, total_tokens=924, completion_tokens_details=None, prompt_tokens_details=None), cache_hit=None)
+Timestamp: 2025-05-03T10:40:34.680721
+
+--- Call 0 ---
+Messages Sent:
+  Role: system, Content: Your input fields are:
+1. `movie_review` (str): The text of the movie review.
+Your output fields are:
+1. `sentiment` (str): The overall sentiment (must be one of 'positive', 'negative', or 'neutral')....
+  Role: user, Content: This is an example of the task, though some input or output fields are not supplied.
+
+[[ ## movie_review ## ]]
+The cinematography was decent and the soundtrack was nice, but otherwise unremarkable....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+neutral
+
+[[ ## explanation ## ]]
+None
+
+[[ ## keywords ## ]]
+[1] «decent cinematography»
+[2] «nice soundtrack»
+[3] «unremarkable»...
+  Role: user, Content: This is an example of the task, though some input or output fields are not supplied.
+
+[[ ## movie_review ## ]]
+It was okay. Some good visuals, but the pacing felt off and it didn't leave much impact....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+neutral
+
+[[ ## explanation ## ]]
+None
+
+[[ ## keywords ## ]]
+[1] «okay»
+[2] «good visuals»
+[3] «pacing off»
+[4] «no impact»...
+  Role: user, Content: [[ ## movie_review ## ]]
+Visually stunning, a technical marvel! But the script was weak and confusing....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+Despite praising visuals, the reviewer criticizes the weak and confusing script.
+
+[[ ## keywords ## ]]
+[1] «visually stunning»
+[2] «technical ma...
+  Role: user, Content: [[ ## movie_review ## ]]
+I fell asleep halfway through. Incredibly boring....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+The reviewer found the movie extremely boring, indicating strong negative sentiment.
+
+[[ ## keywords ## ]]
+[1] «fell asleep»
+[2] «boring»...
+  Role: user, Content: [[ ## movie_review ## ]]
+Absolutely loved it! The acting was incredible and the story kept me hooked....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+positive
+
+[[ ## explanation ## ]]
+The reviewer expresses strong positive sentiment, highlighting acting and story.
+
+[[ ## keywords ## ]]
+[1] «loved it»
+[2] «incredible acting»
+[3...
+  Role: user, Content: [[ ## movie_review ## ]]
+A heartwarming story with brilliant performances. A must-see!...
+  Role: assistant, Content: [[ ## sentiment ## ]]
+positive
+
+[[ ## explanation ## ]]
+The review highlights the heartwarming story and brilliant performances, recommending the movie.
+
+[[ ## keywords ## ]]
+[1] «heartwarming story»
+...
+  Role: user, Content: [[ ## movie_review ## ]]
+A complete waste of time. The plot was nonsensical and the characters were wooden.
+
+Respond with the corresponding output fields, starting with the field `[[ ## sentiment ## ]...
+
+Response:
+ModelResponse(id='chatcmpl-ff84e0c8-70eb-4ac7-ba41-27f0f359f778', created=1746249040, model='ollama_chat/mistral-small3.1', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='[[ ## sentiment ## ]]\nnegative\n\n[[ ## explanation ## ]]\nThe reviewer criticizes the plot and characters, indicating a strong negative sentiment.\n\n[[ ## keywords ## ]]\n[1] «waste of time»\n[2] «nonsensical plot»\n[3] «wooden characters»\n\n[[ ## completed ## ]]', role='assistant', tool_calls=None, function_call=None, provider_specific_fields=None))], usage=Usage(completion_tokens=69, prompt_tokens=859, total_tokens=928, completion_tokens_details=None, prompt_tokens_details=None), cache_hit=None)
+Timestamp: 2025-05-03T10:40:40.812875
+
+--- Call 1 ---
+Messages Sent:
+  Role: system, Content: Your input fields are:
+1. `movie_review` (str): The text of the movie review.
+Your output fields are:
+1. `sentiment` (str): The overall sentiment (must be one of 'positive', 'negative', or 'neutral')....
+  Role: user, Content: This is an example of the task, though some input or output fields are not supplied.
+
+[[ ## movie_review ## ]]
+The cinematography was decent and the soundtrack was nice, but otherwise unremarkable....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+neutral
+
+[[ ## explanation ## ]]
+None
+
+[[ ## keywords ## ]]
+[1] «decent cinematography»
+[2] «nice soundtrack»
+[3] «unremarkable»...
+  Role: user, Content: [[ ## movie_review ## ]]
+Visually stunning, a technical marvel! But the script was weak and confusing....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+Despite praising visuals, the reviewer criticizes the weak and confusing script.
+
+[[ ## keywords ## ]]
+[1] «visually stunning»
+[2] «technical ma...
+  Role: user, Content: [[ ## movie_review ## ]]
+I fell asleep halfway through. Incredibly boring....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+The reviewer found the movie extremely boring, indicating strong negative sentiment.
+
+[[ ## keywords ## ]]
+[1] «fell asleep»
+[2] «boring»...
+  Role: user, Content: [[ ## movie_review ## ]]
+Absolutely loved it! The acting was incredible and the story kept me hooked....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+positive
+
+[[ ## explanation ## ]]
+The reviewer expresses strong positive sentiment, highlighting acting and story.
+
+[[ ## keywords ## ]]
+[1] «loved it»
+[2] «incredible acting»
+[3...
+  Role: user, Content: [[ ## movie_review ## ]]
+A complete waste of time. The plot was nonsensical and the characters were wooden....
+  Role: assistant, Content: [[ ## sentiment ## ]]
+negative
+
+[[ ## explanation ## ]]
+The reviewer expresses strong negative sentiment, criticizing the plot and characters.
+
+[[ ## keywords ## ]]
+[1] «waste of time»
+[2] «nonsensica...
+  Role: user, Content: [[ ## movie_review ## ]]
+A heartwarming story with brilliant performances. A must-see!...
+  Role: assistant, Content: [[ ## sentiment ## ]]
+positive
+
+[[ ## explanation ## ]]
+The review highlights the heartwarming story and brilliant performances, recommending the movie.
+
+[[ ## keywords ## ]]
+[1] «heartwarming story»
+...
+  Role: user, Content: [[ ## movie_review ## ]]
+It was okay. Some good visuals, but the pacing felt off and it didn't leave much impact.
+
+Respond with the corresponding output fields, starting with the field `[[ ## sentimen...
+
+Response:
+ModelResponse(id='chatcmpl-8df19019-ae59-4b42-a083-7a54cce60d16', created=1746249046, model='ollama_chat/mistral-small3.1', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='[[ ## sentiment ## ]]\nneutral\n\n[[ ## explanation ## ]]\n\n[[ ## keywords ## ]]\n[1] «good visuals»\n[2] «off pacing»\n[3] «no impact»\n\n[[ ## completed ## ]]', role='assistant', tool_calls=None, function_call=None, provider_specific_fields=None))], usage=Usage(completion_tokens=49, prompt_tokens=850, total_tokens=899, completion_tokens_details=None, prompt_tokens_details=None))
+Timestamp: 2025-05-03T10:40:46.848335
+
+--- Final Compiled Predictor Signature Instructions ---
+Analyzes movie review sentiment, providing explanation and keywords.
+Input: A movie review.
+Output: Sentiment (positive/negative/neutral), explanation (if applicable), and keywords (as a list).
+
+--- Final Compiled Predictor Few-Shot Examples ---
+Number of selected demos: 7
+
+--- Demo 1 ---
+2025-05-03 10:40:46,849 - WARNING - Could not inspect final compiled predictor details: Inputs have not been set for this example. Use `example.with_inputs()` to set them.
+
+================================================================================
+Analyzing Positive Review
+Review Text: "This movie was absolutely fantastic! The acting was superb, the plot was engaging, and the visuals were stunning. I left the theater feeling uplifted."
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:40:46,849 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:40:46,849 - INFO - Sending request to Ollama via litellm...
+10:40:46 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:40:46,849 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:40:46,875 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:40:46 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:46,876 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:40:46,907 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:46,940 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:55,398 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:40:55 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:40:55,400 - INFO - Wrapper: Completed Call, calling success_handler
+10:40:55 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:40:55,400 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:40:55 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:40:55,401 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:40:55,435 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:55,436 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:55,439 - INFO - Received response from Ollama.
+2025-05-03 10:40:55,439 - INFO - Raw response content:
+```json
+{
+  "sentiment": "positive",
+  "explanation": "The reviewer uses words like 'absolutely fantastic', 'superb', 'engaging', 'stunning', and 'uplifted' to describe the movie, indicating a very positive sentiment.",
+  "keywords": ["fantastic", "acting", "superb", "plot", "engaging", "visuals", "stunning", "uplifted"]
+}
+```
+2025-05-03 10:40:55,440 - INFO - Extracted JSON string: {
+  "sentiment": "positive",
+  "explanation": "The reviewer uses words like 'absolutely fantastic', 'superb', 'engaging', 'stunning', and 'uplifted' to describe the movie, indicating a very positive sentiment.",
+  "keywords": ["fantastic", "acting", "superb", "plot", "engaging", "visuals", "stunning", "uplifted"]
+}
+2025-05-03 10:40:55,440 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "positive",
+  "explanation": "The reviewer uses words like 'absolutely fantastic', 'superb', 'engaging', 'stunning', and 'uplifted' to describe the movie, indicating a very positive sentiment.",
+  "keywords": [
+    "fantastic",
+    "acting",
+    "superb",
+    "plot",
+    "engaging",
+    "visuals",
+    "stunning",
+    "uplifted"
+  ]
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:40:55,440 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:40:55,440 - INFO - Sending request via Compiled DSPy Module...
+10:40:55 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:55,443 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:40:55,474 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:40:55 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:40:55,475 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:40:55,509 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:40:55,540 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:06,887 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:41:06 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:41:06,890 - INFO - Wrapper: Completed Call, calling success_handler
+10:41:06 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:06,891 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:41:06 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:06,891 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:06,924 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:06,925 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:06,934 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:41:06,934 - INFO - Processed Optimized DSPy result: {'sentiment': 'positive', 'explanation': 'The reviewer praises multiple aspects of the movie, including acting, plot, visuals, and the emotional impact, indicating a strong positive sentiment.', 'keywords': ['[1] «fantastic»\n[2] «superb acting»\n[3] «engaging plot»\n[4] «stunning visuals»\n[5] «uplifted»']}
+{
+  "sentiment": "positive",
+  "explanation": "The reviewer praises multiple aspects of the movie, including acting, plot, visuals, and the emotional impact, indicating a strong positive sentiment.",
+  "keywords": [
+    "[1] \u00abfantastic\u00bb\n[2] \u00absuperb acting\u00bb\n[3] \u00abengaging plot\u00bb\n[4] \u00abstunning visuals\u00bb\n[5] \u00abuplifted\u00bb"
+  ]
+}
+
+================================================================================
+Analyzing Negative Review
+Review Text: "What a disappointment. The story was predictable, the characters were flat, and the pacing dragged terribly. I wouldn't recommend wasting your time on this."
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:41:06,934 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:41:06,934 - INFO - Sending request to Ollama via litellm...
+10:41:06 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:41:06,935 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:41:06,958 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:41:06 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:06,960 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:06,990 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:07,024 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:13,882 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:41:13 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:41:13,883 - INFO - Wrapper: Completed Call, calling success_handler
+10:41:13 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:13,884 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:41:13 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:13,884 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:13,916 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:13,916 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:13,920 - INFO - Received response from Ollama.
+2025-05-03 10:41:13,920 - INFO - Raw response content:
+```json
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer expresses strong dissatisfaction with the movie, highlighting issues with the story, characters, and pacing.",
+  "keywords": ["disappointment", "predictable", "flat characters", "dragged pacing", "waste of time"]
+}
+```
+2025-05-03 10:41:13,920 - INFO - Extracted JSON string: {
+  "sentiment": "negative",
+  "explanation": "The reviewer expresses strong dissatisfaction with the movie, highlighting issues with the story, characters, and pacing.",
+  "keywords": ["disappointment", "predictable", "flat characters", "dragged pacing", "waste of time"]
+}
+2025-05-03 10:41:13,920 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer expresses strong dissatisfaction with the movie, highlighting issues with the story, characters, and pacing.",
+  "keywords": [
+    "disappointment",
+    "predictable",
+    "flat characters",
+    "dragged pacing",
+    "waste of time"
+  ]
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:41:13,920 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:41:13,920 - INFO - Sending request via Compiled DSPy Module...
+10:41:13 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:41:13,923 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:41:13,954 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:41:13 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:13,956 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:13,987 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:14,021 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:24,736 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:41:24 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:41:24,741 - INFO - Wrapper: Completed Call, calling success_handler
+10:41:24 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:24,741 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:41:24 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:24,741 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:24,776 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:24,777 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:24,784 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:41:24,784 - INFO - Processed Optimized DSPy result: {'sentiment': 'negative', 'explanation': 'The reviewer expresses strong negative sentiment, criticizing the predictable story, flat characters, and poor pacing.', 'keywords': ['[1] «disappointment»\n[2] «predictable story»\n[3] «flat characters»\n[4] «poor pacing»\n[5] «waste of time»']}
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer expresses strong negative sentiment, criticizing the predictable story, flat characters, and poor pacing.",
+  "keywords": [
+    "[1] \u00abdisappointment\u00bb\n[2] \u00abpredictable story\u00bb\n[3] \u00abflat characters\u00bb\n[4] \u00abpoor pacing\u00bb\n[5] \u00abwaste of time\u00bb"
+  ]
+}
+
+================================================================================
+Analyzing Neutral Review
+Review Text: "The film had some interesting concepts and decent cinematography, but the execution felt uneven. It wasn't bad, but it didn't leave a strong impression either."
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:41:24,784 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:41:24,784 - INFO - Sending request to Ollama via litellm...
+10:41:24 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:41:24,784 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:41:24,810 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:41:24 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:24,812 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:41:24,844 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:24,878 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:30,950 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:41:30 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:41:30,951 - INFO - Wrapper: Completed Call, calling success_handler
+10:41:30 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:30,951 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:41:30 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:30,951 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:30,983 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:30,984 - INFO - Received response from Ollama.
+2025-05-03 10:41:30,984 - INFO - Raw response content:
+```json
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": ["interesting concepts", "decent cinematography", "uneven execution", "didn't leave a strong impression"]
+}
+```
+2025-05-03 10:41:30,984 - INFO - Extracted JSON string: {
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": ["interesting concepts", "decent cinematography", "uneven execution", "didn't leave a strong impression"]
+}
+2025-05-03 10:41:30,984 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": [
+    "interesting concepts",
+    "decent cinematography",
+    "uneven execution",
+    "didn't leave a strong impression"
+  ]
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:41:30,984 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:41:30,984 - INFO - Sending request via Compiled DSPy Module...
+2025-05-03 10:41:30,985 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:41:30 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:41:30,986 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:41:31,019 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:41:31 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:31,020 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:41:31,054 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:41:31,086 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:50,856 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:45:50 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:45:50,860 - INFO - Wrapper: Completed Call, calling success_handler
+10:45:50 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:45:50,860 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:45:50 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:45:50,860 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:45:50,903 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:50,903 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:50,908 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:45:50,908 - INFO - Processed Optimized DSPy result: {'sentiment': 'neutral', 'explanation': None, 'keywords': ['[1] «interesting concepts»\n[2] «decent cinematography»\n[3] «uneven execution»\n[4] «no strong impression»']}
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": [
+    "[1] \u00abinteresting concepts\u00bb\n[2] \u00abdecent cinematography\u00bb\n[3] \u00abuneven execution\u00bb\n[4] \u00abno strong impression\u00bb"
+  ]
+}
+
+================================================================================
+Analyzing Tricky Review
+Review Text: "Visually, it's a masterpiece, truly groundbreaking effects. However, the narrative is a complete mess, making it hard to follow or care about."
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:45:50,908 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:45:50,908 - INFO - Sending request to Ollama via litellm...
+10:45:50 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:45:50,908 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:45:50,935 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:45:50 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:45:50,936 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:45:50,969 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:51,002 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:58,410 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:45:58 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:45:58,412 - INFO - Wrapper: Completed Call, calling success_handler
+10:45:58 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:45:58,412 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:45:58 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:45:58,413 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:45:58,446 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:58,447 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:58,448 - INFO - Received response from Ollama.
+2025-05-03 10:45:58,448 - INFO - Raw response content:
+```json
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer praises the visual effects but criticizes the narrative, making the overall sentiment negative.",
+  "keywords": ["visually", "masterpiece", "groundbreaking effects", "narrative", "complete mess", "hard to follow", "care about"]
+}
+```
+2025-05-03 10:45:58,448 - INFO - Extracted JSON string: {
+  "sentiment": "negative",
+  "explanation": "The reviewer praises the visual effects but criticizes the narrative, making the overall sentiment negative.",
+  "keywords": ["visually", "masterpiece", "groundbreaking effects", "narrative", "complete mess", "hard to follow", "care about"]
+}
+2025-05-03 10:45:58,449 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer praises the visual effects but criticizes the narrative, making the overall sentiment negative.",
+  "keywords": [
+    "visually",
+    "masterpiece",
+    "groundbreaking effects",
+    "narrative",
+    "complete mess",
+    "hard to follow",
+    "care about"
+  ]
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:45:58,449 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:45:58,449 - INFO - Sending request via Compiled DSPy Module...
+10:45:58 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:45:58,450 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:45:58,500 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:45:58 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:45:58,501 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:45:58,535 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:45:58,567 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:09,789 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:46:09 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:46:09,793 - INFO - Wrapper: Completed Call, calling success_handler
+10:46:09 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:09,793 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:46:09 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:09,793 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:09,828 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:09,828 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:09,830 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:46:09,831 - INFO - Processed Optimized DSPy result: {'sentiment': 'negative', 'explanation': 'The reviewer praises the visuals but criticizes the narrative for being a mess, making it hard to follow or care about.', 'keywords': ['[1] «visually masterpiece»\n[2] «groundbreaking effects»\n[3] «messy narrative»\n[4] «hard to follow»\n[5] «hard to care about»']}
+{
+  "sentiment": "negative",
+  "explanation": "The reviewer praises the visuals but criticizes the narrative for being a mess, making it hard to follow or care about.",
+  "keywords": [
+    "[1] \u00abvisually masterpiece\u00bb\n[2] \u00abgroundbreaking effects\u00bb\n[3] \u00abmessy narrative\u00bb\n[4] \u00abhard to follow\u00bb\n[5] \u00abhard to care about\u00bb"
+  ]
+}
+
+================================================================================
+Analyzing Empty Review
+Review Text: ""
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:46:09,831 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:46:09,831 - INFO - Sending request to Ollama via litellm...
+10:46:09 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:46:09,831 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:46:09,859 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:46:09 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:09,860 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:09,892 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:09,925 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:14,483 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:46:14 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:46:14,485 - INFO - Wrapper: Completed Call, calling success_handler
+10:46:14 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:14,486 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:46:14 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:14,486 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:14,519 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:14,520 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:14,525 - INFO - Received response from Ollama.
+2025-05-03 10:46:14,525 - INFO - Raw response content:
+```json
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": []
+}
+```
+2025-05-03 10:46:14,525 - INFO - Extracted JSON string: {
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": []
+}
+2025-05-03 10:46:14,525 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": []
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:46:14,525 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:46:14,525 - INFO - Sending request via Compiled DSPy Module...
+10:46:14 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:46:14,528 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:46:14,560 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:46:14 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:14,560 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:14,595 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:14,626 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:22,330 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:46:22 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:46:22,334 - INFO - Wrapper: Completed Call, calling success_handler
+10:46:22 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:22,334 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:46:22 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:22,334 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:22,369 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:22,369 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:22,373 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:46:22,373 - INFO - Processed Optimized DSPy result: {'sentiment': 'neutral', 'explanation': None, 'keywords': ['[1] «no text»']}
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": [
+    "[1] \u00abno text\u00bb"
+  ]
+}
+
+================================================================================
+Analyzing Non-Movie Review
+Review Text: "This restaurant served the best pasta I've ever had."
+================================================================================
+
+--- Simple Prompt Result ---
+2025-05-03 10:46:22,374 - INFO - 
+--- Running Simple Prompting ---
+2025-05-03 10:46:22,374 - INFO - Sending request to Ollama via litellm...
+10:46:22 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:46:22,374 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama
+2025-05-03 10:46:22,402 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:46:22 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:22,404 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:22,440 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:22,475 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:28,527 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+10:46:28 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:46:28,528 - INFO - Wrapper: Completed Call, calling success_handler
+10:46:28 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:28,528 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+10:46:28 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:28,528 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:28,559 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:28,560 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:28,560 - INFO - Received response from Ollama.
+2025-05-03 10:46:28,560 - INFO - Raw response content:
+```json
+{
+  "sentiment": "positive",
+  "explanation": "The reviewer praises the pasta, indicating a very high level of satisfaction with the food.",
+  "keywords": ["best", "pasta", "restaurant"]
+}
+```
+2025-05-03 10:46:28,560 - INFO - Extracted JSON string: {
+  "sentiment": "positive",
+  "explanation": "The reviewer praises the pasta, indicating a very high level of satisfaction with the food.",
+  "keywords": ["best", "pasta", "restaurant"]
+}
+2025-05-03 10:46:28,560 - INFO - Successfully parsed and validated JSON response.
+{
+  "sentiment": "positive",
+  "explanation": "The reviewer praises the pasta, indicating a very high level of satisfaction with the food.",
+  "keywords": [
+    "best",
+    "pasta",
+    "restaurant"
+  ]
+}
+
+--- DSPy Optimized Predict Result ---
+2025-05-03 10:46:28,560 - INFO - 
+--- Running DSPy Optimized Predict ---
+2025-05-03 10:46:28,560 - INFO - Sending request via Compiled DSPy Module...
+10:46:28 - LiteLLM:INFO: utils.py:3108 - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:46:28,563 - INFO - 
+LiteLLM completion() model= mistral-small3.1; provider = ollama_chat
+2025-05-03 10:46:28,592 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:46:28 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:28,593 - INFO - selected model name for cost calculation: ollama/mistral-small3.1
+2025-05-03 10:46:28,624 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:28,657 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:36,433 - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+10:46:36 - LiteLLM:INFO: utils.py:1185 - Wrapper: Completed Call, calling success_handler
+2025-05-03 10:46:36,438 - INFO - Wrapper: Completed Call, calling success_handler
+10:46:36 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:36,438 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+10:46:36 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:36,438 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:36,474 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:36,474 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:36,484 - INFO - Received prediction object from Compiled DSPy Module.
+2025-05-03 10:46:36,484 - INFO - Processed Optimized DSPy result: {'sentiment': 'neutral', 'explanation': None, 'keywords': ['[1] «best pasta»']}
+{
+  "sentiment": "neutral",
+  "explanation": null,
+  "keywords": [
+    "[1] \u00abbest pasta\u00bb"
+  ]
+}
+
+================================================================================
+Notes on DSPy Optimization Process Used Above
+================================================================================
+
+The script now demonstrates the DSPy optimization workflow:
+
+1.  **Training Data (`EXAMPLES`):** A list of `dspy.Example` objects was created, providing input reviews and their desired structured outputs (sentiment, explanation, keywords).
+2.  **Validation Metric (`validate_sentiment_analysis`):** A function was defined to compare a prediction against a gold example, returning a score from 0.0 to 1.0. This function handles nuances like comparing explanations (treating None/empty as equivalent for neutral) and keyword sets.
+3.  **Optimizer (`BootstrapFewShot`):** This teleprompter was configured with the validation metric. During compilation, it uses the metric to evaluate different combinations of examples from `EXAMPLES` to find few-shot examples that improve performance on the training set.
+4.  **DSPy Module (`SentimentAnalysisModule`):** The `dspy.Predict` logic was wrapped in a `dspy.Module`. This is necessary for the `compile` process.
+5.  **Compilation (`teleprompter.compile(...)`):** This crucial step executed the optimization. The optimizer ran the `SentimentAnalysisModule` on the training examples, evaluated the outputs using the metric, and selected the best few-shot examples to include in the final prompt template used by the `compiled_sentiment_analyzer`. The LLM history during this phase shows the internal trials.
+6.  **Inference (`analyze_sentiment_dspy_optimized`):** Predictions were made using the `compiled_sentiment_analyzer`. This module now potentially uses an optimized prompt structure (including few-shot examples selected during compilation) which can lead to more accurate and consistent results compared to the zero-shot `dspy.Predict` or the simple prompting approach.
+
+This process allows DSPy to adapt the prompting strategy to the specific task and LLM, potentially overcoming weaknesses of zero-shot prompting.
+
+2025-05-03 10:46:36,505 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+10:46:36 - LiteLLM:INFO: cost_calculator.py:638 - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:36,507 - INFO - selected model name for cost calculation: ollama_chat/mistral-small3.1
+2025-05-03 10:46:36,537 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2025-05-03 10:46:36,571 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
