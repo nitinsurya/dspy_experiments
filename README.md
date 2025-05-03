@@ -1,6 +1,8 @@
 # Eval DSP
 
-A Python project using UV for dependency management and DSPy for DSP (Digital Signal Processing) evaluation.
+Goal of this project is to evaluate DSPy, observe its optimizations, prompts etc and compare it with a manually written prompt.
+
+This project uses UV for dependency management and primarily thought to be a more command line approach.
 
 ## Prerequisites
 
